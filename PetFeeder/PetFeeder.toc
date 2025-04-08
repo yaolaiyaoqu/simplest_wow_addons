@@ -1,0 +1,8 @@
+## Interface: 11305
+## Title: PetFeeder
+## Author: wangyao
+## Version: 1.0
+## Notes: 宠物喂食助手 - 拖动食物/点击喂养
+## SavedVariablesPerCharacter: PetFeederDB
+
+PetFeeder.lua

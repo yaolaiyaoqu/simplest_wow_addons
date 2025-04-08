@@ -1,0 +1,6 @@
+## Title: AutoSellTrash
+## Interface: 11403
+## Version: 1.0.0
+## Author: wangyao
+## Notes: Auto sell trash.
+AutoSellTrash.lua

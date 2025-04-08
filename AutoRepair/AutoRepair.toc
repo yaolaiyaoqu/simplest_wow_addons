@@ -1,0 +1,6 @@
+## Interface: 11403
+## Title: AutoRepair
+## Notes: Automatically repair your gear when talking to a repair vendor.
+## Author: wangyao
+## Version: 1.0
+AutoRepair.lua
